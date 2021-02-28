@@ -5,3 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Modules used axios , chart.js , react-chartjs-2  ,react-countup , classnames , @material-ui/core
 
 After installing all necessary modules , run npm start.
+
+FINAL.png is screenshot of running project
